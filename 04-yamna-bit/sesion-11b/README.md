@@ -1,9 +1,8 @@
 # sesion-11b
 
-##  Clase 11b:24/10: MÁQUINAS COMPUTACIONALES 
+##  Clase 11b: 24/10: MÁQUINAS COMPUTACIONALES 
 
-Nota del día: Llegué y estaban hablando sobre filosofía, crisis existencial activada, 
-todo esto mientras Aarón recitava poemas Todo te lo cuestionan.
+Nota del día: Llegué y estaban hablando sobre filosofía, crisis existencial activada, todo esto mientras Aarón recitava poemas. Todo te lo cuestionan.
 
 ### Metaforas: aprender a comunicar 
 
@@ -13,7 +12,7 @@ Máquinas de felicidad.
 
 Máquina tra(ns)ductores -> Convertir en otra. 
 
-## Ejemplo de mesa (p0dría ser cualquier otro objeto)
+## Ejemplo de mesa (podría ser cualquier otro objeto)
 
 Graham Harman: Filosófo Estadounidense 
 
@@ -39,7 +38,7 @@ OOO: ontología orientada a objetos.
 
 HANDSCHUN: Zapato de mano. 
 
-¿Por qué debería existir la palabra guante?
+>¿Por qué debería existir la palabra guante?
 
 FILOSOFÍA: amor al conocimiento (arte dentro de ello)
 
