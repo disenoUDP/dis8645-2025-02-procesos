@@ -32,8 +32,30 @@ Tiene cualidades no escenciales, en este caso son sus accidentes y escenciales, 
 - Cuando diseñamos pensamos en estas ambas dimensiones. factura y materialidad/escenciales y no escenciales.
 - Cómo resolver diseño.
   
-#### Encargos
+### Encargos
 
 - Cada persona debe subir una investigación detallada de la obra artística de Claudia González Godoy, con énfasis en su investigación sobre ríos, incluyendo información sobre premios, exposiciones, colaboradores, estudios y referencias en su obra.
 - Cada persona debe subir taxonomía detallada de sensores, actuadores, software y hardware utilizado en 1 obra exhibida en la Bienal de Artes Mediales 2025, citando correctamente a las fuentes
-Metáforas -> uno puede proponer como hablar de la mesa. Según Harman las metáforas consisten en com¿nectar dos cualidades no escenciales de objetos distintos.
+Metáforas -> uno puede proponer como hablar de la mesa. Según Harman las metáforas consisten en conectar dos cualidades no escenciales de objetos distintos.
+
+#### Claudia González Godoy
+
+[CGG](https://www.claudiagonzalez.cl/cgg/)
+
+Artista medial independiente y gestora de proyectos educativos en arte y tecnología, a explorado las relaciones entre arte, ciencia, naturaleza y tecnología, tanto en su labor como artista y docente. Su trabajo forma parte de colecciones nacionales e internacionales como MINCAP Chile, ifa Galelery y ZKM Karlsruhe en Alemania, y ha participado en festivales y bienales internacionale como Tsonami, FILE Brasil y la Bienal de Artes Mediales.  
+
+desarrolla su serie “Hidroscopias”, y el proyecto se titula **Hidroscopia / Biobío.]** Explora el río Río Bío‑Bío desde su nacimiento hasta su desembocadura, investigando cómo las intervenciones humanas; presas, embalses, extracción de agua, cómo alteran su flujo, sonido, memoria y vida ecosistémica.
+
+ COn una combinación de arte, tecnología, trabajo de campo y colaboración con comunidades locales, la obra articula materialidades (cerámica, textil, agua, tierra) con instalaciones sonoras
+ 
+<https://artishockrevista.com/2025/09/14/claudia-gonzalez-godoy-hidroscopias/>
+
+Galería Gabriela Mistral, Decantaciones y Resonaciones ¿Dónde nace y termina el rumor del río?
+
+![claudiaGonzales](./imagenes/imagen1.jpg)
+
+![claudiaGonzales](./imagenes/imagen2.jpg)
+
+![claudiaGonzales](./imagenes/imagen3.jpg)
+
+![claudiaGonzales](./imagenes/imagen4.jpg)
