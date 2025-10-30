@@ -28,6 +28,21 @@ Antología -> todas las cosas son objetos
 
 Asíntota
 
+### encargo-17: Claudia González Godoy
+
+"Cada persona debe subir una investigación detallada de la obra artística de Claudia González Godoy, con énfasis en su investigación sobre ríos, incluyendo información sobre premios, exposiciones, colaboradores, estudios y referencias en su obra."
+
+Claudia Gonzalez Godoy es una Artista Visual y profesora titulada de la Escuela de Arte y Cultura visual de la [Universidad Arcis](https://www.universidadarcis.cl/). Nacida en 1983, es una de las.
+
+
+### encargo-18: Bienal de Artes Mediales 2025
+
+"Cada persona debe subir taxonomía detallada de sensores, actuadores, software y hardware utilizado en 1 obra exhibida en la Bienal de Artes Mediales 2025, citando correctamente a las fuentes."
+
+[ARCOPARLANTE](https://17.bienaldeartesmediales.cl/obra/arcoparlante/)
+
+
+
 
 ***
 
