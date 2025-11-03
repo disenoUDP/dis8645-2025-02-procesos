@@ -1,4 +1,4 @@
-# ⋆₊˚⊹♡ Clase 08a -  ♡⊹˚₊⋆
+# ⋆₊˚⊹♡ Clase 11a -  ♡⊹˚₊⋆
 
 Martes 21 Octubre 2025
 
