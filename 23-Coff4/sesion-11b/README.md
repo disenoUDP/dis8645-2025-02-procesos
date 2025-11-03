@@ -1,9 +1,9 @@
 # sesion-11b
 
-cada persona debe subir una investigación detallada de la obra artística de Claudia González Godoy, con énfasis en su investigación sobre ríos, incluyendo información sobre premios, exposiciones, colaboradores, estudios y referencias en su obra.
+Cada persona debe subir una investigación detallada de la obra artística de Claudia González Godoy, con énfasis en su investigación sobre ríos, incluyendo información sobre premios, exposiciones, colaboradores, estudios y referencias en su obra.
 
 
-cada persona debe subir taxonomía detallada de sensores, actuadores, software y hardware utilizado en 1 obra exhibida en la Bienal de Artes Mediales 2025, citando correctamente a las fuentes.
+Cada persona debe subir taxonomía detallada de sensores, actuadores, software y hardware utilizado en 1 obra exhibida en la Bienal de Artes Mediales 2025, citando correctamente a las fuentes.
 
 
 Claudia González Godoy ¿Quien es?
@@ -71,3 +71,28 @@ Referencias de la obra:
 
 ---
 
+Ahora vamos directamente con la segunda parte:
+
+https://yto.cl/desdelaraiz/
+
+"desde la raíz"
+Aproximación al bosque esclerófilo 
+
+Módulos de raíces/sensores y luz:
+
+Esta obra se basa a través de redes fungi,en donde se visibilizan los intercambios que muestran los movimientos luminicos dentro del tejido de fibras de sisal. Los modulos recrean las uniones y entramados, integrando sensores que activan sonidos y diferentes tipos de iluminación. 
+
+Sonido:
+
+Grabaciones de la naturaleza y sonidos ambientales que explican la ecología del bosque. Esta historia habla de como el bosque es un organismo vivo.
+Seguramente se utilizan parlantes y pantallas que visibilicen esta naturaleza.
+
+Pinturas electrónicas:
+
+Veinticuatro pinturas electrónicas que evocan  la diversidad del bosque esclerófilo , Se necesitan sensores de luz que dislumbren las pantallas, las propias pantallas que muestren las obras y los soportes de estas ultimas.
+
+Video en loop:
+
+Proyectado en forma de un círculo de aproximadamente 2,5 metros de diámetro, el vídeo despliega imágenes de exploraciones en los bosques de Alhué, Chile. A través de una proyección continua 
+
+Para terminar en esta parte de la exposición, se utilizó un proyector en una superficie plana (pared) con las diferentes imagenes que cambiaban.
