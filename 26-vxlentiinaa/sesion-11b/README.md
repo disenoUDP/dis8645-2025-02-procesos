@@ -83,3 +83,74 @@ Diseño orientado a objetos, ¿cómo lo interpreta Matías? diseñar pensando qu
 - Metaclases = variables, atributos (OOO)
 - Cuando diseñamos pensamos en estas ambas dimensiones, factura y materialidad/escenciales y no escenciales
 - Cómo resolver el diseño
+
+---
+
+### Encargo 17 
+
+Cada persona debe subir una investigación detallada de la obra artística de Claudia González Godoy, con énfasis en su investigación sobre ríos, incluyendo información sobre premios, exposiciones, colaboradores, estudios y referencias en su obra.
+
+`¿Quién es?`
+
+- Claudia González Godoy (Chile, 1983) es artista medial independiente y gestora de proyectos educativos en arte y tecnología. Su obra se centra en la noción de materialidad de soportes tecnológicos tanto analógicos como digitales, así como en el comportamiento de los materiales en el tiempo y su manifestación en la dimensión del sonido.
+
+`Síntesis de la obra`
+
+- Decantaciones y resonaciones. ¿Dónde nace y termina el rumor del río? 
+  - es una instalación sonora y espacial de Clauda González Godoy que transforma la sala, Galería de arte contemporáneo Gabriela Mistral, en una "topografía suspendida" que se asimila a una zona embalsada del río Biobío. La obra reflexiona sobre las transformaciones que ha sufrido este "charco" de agua, poniendo su atención en el sonido, capturando grabaciones de su flujo libre y contrastándolas con el silencio de las aguas retenidad. La pieza reúne grabaciones de campo, elementos textiles que representan la red hidrográfica y composiciones que confrontan el flujo (sonidos de río libre) con el silencio de las aguas retenidas en embalses, invitando a la escucha y a repensar la intervención humana en ecosistemas fluviales.
+  - La muestra ocupa ambas salas de la galería; es el resultado de una investigación artística y ecológica, en la que la artista realizó performances sonoras a lo largo del curso del río, desde su nacimiento en la Laguna Galletué hasta su desembocadura en la Península de Hualpén. 
+
+- ¿Qué hace la obra? la obra se divide en tres "marcos"
+  - Sonido: Registro de flujos libres del río versus paisajes sonoros de embalse; uso de grabaciones de campo y diseño sonoro espacial para “resonar” la sala.
+  - Textil / cartografía: Representación textil de la red hidrográfica del Biobío que actúa como topografía ficticia (la exposición monta una especie de paisaje embalsado dentro de la galería).
+  - Instalación espacial: Objetos, cuencas/vasijas y dispositivos sonoro-mecánicos que componen una escena que tensiona lo artificial y lo natural, obligando a la calma y escucha atenta.
+  
+`Marco investigativo de la obra`
+
+- Eje central de la obra
+  - La obra forma parte de un proceso de investigación que Claudia ha desarrollado durante años sobre la materialidad sonora del agua y las transformaciones socioterritoriales de ríos (particularmente el Biobío). En entrevistas y fichas de proyecto la artista señala que el trabajo busca explorar la “memoria” del río, las huellas sumergidas por represas y el contraste entre el ruido del flujo natural y la quietud del embalse.
+  - Cruce entre arte, ciencia y tecnología: campo sonoro (grabaciones de campo, egofonía), técnicas textiles/cartográficas y montajes que generan experiencias sensoriales y contemplativas. Esto está alineado con su trayectoria como artista medial interesada en materialidad tecnológica y en el comportamiento de materiales en el tiempo.
+ 
+`Proyecto relacionado`
+
+- Hidroscopias / Biobío / Maule: La obra se inscribe en una serie de proyectos del mismo eje investigativo (por ejemplo, “Hidroscopia / Biobío” y trabajos previos sobre el Maule), donde la artista reconoce interlocuciones con investigaciones territoriales, archivos sonoros y colaboraciones con comunidades y organizaciones ligadas al cuidado de ríos. En entrevistas recientes habla explícitamente de estos procesos y del interés por la “retribución” al río.
+
+`Exhibiciones importantes`
+
+- Galería Gabriela Mistral (GGM) — Presentación de Decantaciones y resonaciones (muestra anunciada para 11 de octubre; se situó en el espacio expositivo del Ministerio de las Culturas). Curaduría: Carolina Castro. (Ficha de la GGM y nota del Ministerio de las Culturas).
+- Casa de la Cultura de Chiguayante / proyectos en Biobío: exhibiciones y acciones públicas en la región del Biobío vinculadas a “Hidroscopia / Biobío” (documentadas en artículos y reseñas).
+- Participación en Bienal de Artes Mediales y otras muestras: la artista ha estado vinculada a circuitos de arte medial (ej.: Bienal de Artes Mediales) y su obra forma parte de colecciones y catálogos de arte contemporáneo. "Hiperrealidades" (que también fuimos a la exposición)
+
+`Premios, reconocimientos, etc`
+
+- Residencias /programas internacionales: aparece registrada su participación en programas internacionales como el Berliner Künstlerprogramm /residencias (ficha en Berliner Künstlerprogramm) y otras residencias/documentos de su CV artístico.
+- Colecciones y reconocimientos locales: su trabajo figura en registros institucionales (Colección de Arte Contemporáneo del Ministerio de las Culturas) y en plataformas especializadas. Esto muestra reconocimiento institucional a su obra.
+
+`Estudios`
+
+- Claudia González Godoy (Santiago, 1983) es Artista Visual y Profesora de Arte (Escuela de Arte y Cultura Visual, Universidad Arcis) y tiene un Magíster en Artes Mediales (Universidad de Chile). Su trayectoria incluye docencia y gestión de proyectos en arte y tecnología.
+
+### Encargo 18
+
+cada persona debe subir taxonomía detallada de sensores, actuadores, software y hardware utilizado en 1 obra exhibida en la Bienal de Artes Mediales 2025, citando correctamente a las fuentes.
+
+---
+
+Bibliografía / Enlaces:
+
+- Ministerio de las Culturas, las Artes y el Patrimonio. (2025, 6 de octubre). Galería Gabriela Mistral presenta “Decantaciones y resonancias. ¿Dónde nace y termina el rumor del río?” de Claudia González Godoy. Ministerio de las Culturas. <https://www.cultura.gob.cl/agendacultural/galeria-gabriela-mistral-presenta-decantaciones-y-resonaciones-donde-nace-y-termina-el-rumor-del-rio-de-claudia-gonzalez-godoy/>
+- Artishock Revista. (2025, 14 de septiembre). Claudia González Godoy: Hidroscopia / Biobío. Artishock Revista. <https://artishockrevista.com/2025/09/14/claudia-gonzalez-godoy-hidroscopias/>
+- González Godoy, C. (s. f.). CGG | Claudia González Godoy. <https://www.claudiagonzalez.cl/>
+- Berliner Künstlerprogramm. (s. f.). Claudia Paulina González Godoy. Berliner Künstlerprogramm / DAAD. <https://www.berliner-kuenstlerprogramm.de/en/artist/claudia-paulina-gonzalez-godoy/>
+- Arte y Medios. (2025). ¿Dónde nace y termina el rumor del río? de Claudia González Godoy. Arte y Medios. <https://arteymedios.org/donde-nace-y-termina-el-rumor-del-rio-de-claudia-gonzalez-godoy/>
+- El Dínamo / ED. (2025, 11 de octubre). “Decantaciones y resonancias” en Galería Gabriela Mistral. ED.cl. <hhttps://www.ed.cl/event/decantaciones-y-resonaciones-en-galeria-gabriela-mistral/>
+- El Ciudadano. (2025, 7 de octubre). Una reflexión ecológica y sonora: Galería Gabriela Mistral presenta “Decantaciones y Resonancias” de Claudia González Godoy. El Ciudadano. <https://www.elciudadano.com/arte-cultura/una-reflexion-ecologica-y-sonora-galeria-gabriela-mistral-presenta-decantaciones-y-resonaciones-de-claudia-gonzalez-godoy/10/07/>
+- Ministerio de las Culturas, las Artes y el Patrimonio — Colección de Arte Contemporáneo. (2022, 2 de noviembre). González, Claudia | Colección de Arte Contemporáneo. <https://www.cultura.gob.cl/coleccionarte/claudia-gonzalez-godoy>
+- Instagram (@_claudiagonzalezgodoy). (s. f.). Publicaciones relacionadas con Decantaciones y Resonancias [Publicaciones e imágenes]. Instagram. <https://www.instagram.com/_claudiagonzalezgodoy/>
+- Bienal de Artes Mediales de Santiago. (s. f.). Claudia González Godoy [Ficha participante] <https://17.bienaldeartesmediales.cl/participante/claudia-gonzalez-godoy/>
+- Arte Informado. (s. f.). Claudia González Godoy – artista [Ficha de artista] <https://www.arteinformado.com/guia/f/claudia-gonzalez-godoy-168978>
+- Casa Hoffmann. (s. f.). Claudia González Godoy [Perfil de artista]. <https://casa-hoffmann.com/portfolio/claudia-gonzalez-godoy/>
+- <https://www.instagram.com/p/DPtsRnuDVAY/>
+- <https://www.instagram.com/p/DPwvI5yDwcN/>
+- <https://arteymedios.org/claudia-gonzalez/>
+- <https://culturaacompanada.blogspot.com/2025/10/galeria-gabriela-mistral-presenta.html>

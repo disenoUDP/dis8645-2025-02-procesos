@@ -43,3 +43,4 @@
 - "vivir del mundo de las metáforas, vida poco mainstream y poder defender el por qué"
 - máquinas sentimentales
 - todo es un objeto
+- pendiente rellenar apuntes salida a terreno y encargos
