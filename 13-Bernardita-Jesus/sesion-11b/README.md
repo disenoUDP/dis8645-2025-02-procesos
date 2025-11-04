@@ -1,5 +1,7 @@
 # Sesión-11b
 
+Viernes 24 de octubre, 2025
+
 ## Trabajo en clase
 
 ### Cosas que hablamos en la mañana
