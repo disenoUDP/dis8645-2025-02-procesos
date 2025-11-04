@@ -62,10 +62,8 @@ Ideas vistas en clase junto a mi grupo:
 
 Objetos + Cualidades
 
-Lana: suavidad, patrones, colores
+Lana: suavidad, patrones, colores, Entrelasado, hebras,  
 
-Lentes: metálicos, plateados, pequeños, de vidrio, joyas transparentes, marco de la mirada, goma, tornillos, ópticos, marco redondeado
+Lentes: metálicos, plateados, pequeños, de vidrio, joyas transparentes, marco de la mirada, goma, tornillos, ópticos, marco redondeado, sombras,
 
-Ejemplo:
-
-Una máquina que cause miedo, pero al tacto de un objeto suave.
+#### Una máquina que reacciona al contacto cuando la tocas suavemente, se altera o colapsa, pero si la presionas con fuerza, se calma.
