@@ -8,7 +8,7 @@
 
 - 
 
-Nunca había pensado de dónde venía lo de buscarle un significado al arte, aunque ya conocía la crisis de la mímesis y desde dónde parten las vanguardias. Y es cierto que parten desde la representación, y es posible que por eso busquemos darle significados y metáforas que muchas veces no están, no tienen sentido o no dejan espacio para la interpretación. Muy interesante todo ese tema de lo que son y no son objetos, y trabajar en el lenguaje que explica las cosas.
+Nunca había pensado de dónde venía lo de buscarle un significado al arte, aunque ya conocía la crisis de la mímesis y desde dónde parten las vanguardias artísticas. Y es cierto que parten desde la representación, y es posible que por eso busquemos darle significados y metáforas que muchas veces no están, no tienen sentido o no dejan espacio para la interpretación. Muy interesante todo ese tema de lo que son y no son objetos, y trabajar en el lenguaje que explica las cosas.
 
 ### Referentes
 
@@ -30,7 +30,11 @@ Nunca había pensado de dónde venía lo de buscarle un significado al arte, aun
 
 - [Laura Nieves](https://www.launieves.com/)
 
-### Palabras impoertantes
+### Palabras importantes
+
+[Mímesis:](https://es.wikipedia.org/wiki/M%C3%ADmesis) es un concepto estético, utilizado en la crítica literaria y la filosofía. Tiene una amplia gama de significados, incluyendo imitatio, imitación, similitud no sensible,  receptividad, representación, mimetismo, acto de expresión, acto de semejanza y presentación de sí.
+
+[Vanguardias artísticas:](https://es.wikipedia.org/wiki/Vanguardismo) Alude también al conjunto de movimientos artísticos y literarios que se formaron a comienzos del siglo XX en Occidente que rompieron con la tradición académica y buscaron la innovación.
 
 ## Encargo-17: Claudia González Godoy
 
