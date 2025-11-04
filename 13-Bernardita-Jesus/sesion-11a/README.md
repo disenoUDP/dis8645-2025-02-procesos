@@ -1,5 +1,7 @@
 # Sesión-11a
 
+Martes 21 de octubre, 2025
+
 ## Trabajo en clase
 
 ### Cosas que hablamos en la mañana
