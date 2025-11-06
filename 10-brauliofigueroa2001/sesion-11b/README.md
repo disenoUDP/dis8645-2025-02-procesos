@@ -1,75 +1,50 @@
 # sesion-11b
 
-## taller clase viernes 24 de octubre
+## taller viernes 24 de octubre
 
 ### primera parte
 
-- pendiente rellenar feedback encuesta y más antes de que llegara
+- llegué a las 9
+- iremos a una expo (no me acuerdo bien cuál) y después caminaremos atrás de la u de chile a una bienal de artes mediales
+- el aspecto técnico en los proyectos no preocupa, ahora nos centraremos en desarrollar la parte metafórica y filosófica/conceptual de los proyectos que es la parte más débil
+- máquinas de lenguaje, máquinas de felicidad, máquinas tra(ns)ductoras
+- traducción es lo mismo que transducción?
+- "la metáfora es una solución al problema de la traducción"?, la frase no da abasto con todo lo que queremos expresar, las palabras no son suficientes. Esto me hace mucho sentido con cómo me he sentido últimamente, las palabras no han sido suficientes para poder explicarme por lo tanto estoy escribiendo mucho sobre eso para poder comprenderlo mejor, ¿tienen estas palabras algún momento en el cuál se comprenden completamente? creo que no existe eso
+- "chewing the apple of your eye" la quinta canción del séptimo álbum de ???
 
+#### diseño orientado a objetos
 
-
-
-
-
-
-
-
-
-
-
-
-
-### segunda parte post break
-
-- repaso de apuntes sobre metáfora
-- aspectos de una pizarra
-- es blanca/negra, se puede rayar y borrar, está montada en una pared
-- las cualidades físicas son la mesa científica
-- las cualidades por las que es pizarra, cualidades overmining, sociales
-- se puede aplicar la concepción de objeto a lo que queramos, todos son objetos
-- mezclando cualidades no esenciales entre objetos que no tengan relación es cómo se construye una metáfora
-- ejemplo: un completo y un reproductor de música
-- el completo: tiene palta, es rico, es barato, a veces mojado, tomate palta mayo, vegano, caliente, pan, abrazado, multicolor, fiesta, se caen, son rápidos
-- el reproductor mp3: botones, portable, llavero, pequeño, celeste, cuboide, 6 caras, int/out, hidrofóbico, chino, extarnjero, de la cami, no piensa repite lo que le dicen como al prensa, inanimado, tiene memoria corta
-- este ejercicio te lleva a encontrar las variables/cualidades más raras son las que más permiten vincular ambos objetos
+- graham harman, dice que la realidad existe
+- le interesaba la cosmología, estudio del cosmos, lo de afuera, el universo
+- realidad > lenguaje, el lenguaje no puede abarcar todo lo que la realidad es, ejemplo que dio Aarón: " yo no te puedo hacer sentir con palabras lo que te hace sentir el extreme fall"
+- "la tercera mesa texto"
+- cómo describir una mesa, ¿qué es una mesa?
+- superficie para colocar cosas, interfaz de altura, paralela al suelo, serían las "relaciones"
+- 4 patas, fierro, madera, lisa, cualidades físicas
+- ¿no se parece esto a lo que acabamos de programar?
+- "de lo que está hecho y para qué sirven"
+- la mesa científica es denominada por harman cuando hablas solamente de una mesa a nivel físico, material
+- cuando diseñas estás pensando en ambos tipos de mesas: mesa científica y mesa humanista
+- "quiero hacerme cargo de la realidad de esta manera" el tipo de diseño que es para evitar las crisis, esconderlas, en eeuu está muy desarrollado este tipo de diseño. Por ejemplo las bancas que están diseñadas de forma incómoda o con espinas para que las personas que viven en la calle no duerman en ellas
+- undermining, degranar las cosas hacia abajo, overmining, degranar las cosas hacia arriba
+- heidegger "la mesa real aparece cuando fallan" ¿qué falla?
+- asíntota, se puede diagramar en 2 lineas que pasan muy cerca pero que nunca se tocan
+- "escribir efectivamente como se habla"
+- filosofía = amor por el conocimiento
+- la cámara fotográfica liberó a la pintura de ser representativa, la cámara podía retratar la realidad, ahora puedes pintar cualquier cosa
+- Aarón recitando poemas de parra en clases, épico, los que leyó no los he leído aún
+- uno puede pensar en algo con otras palabras para llegar a lo mismo
+- cualidades no esenciales: Aarón utiliza lentes, pero si se los saca sigue haciendo Aarón
+- las cualidades esenciales son las que hacen ser a Aarón sí mismo
+- caminar es empujar el mundo hacia atrás, que bello
+- qué sería el diseño orientado a objeto?
 -
-- "en un océano de repetición, lo cotidiano nos abraza" metáfora entre mp3 y completo
-- deben ser cosas poco obvias, cosas que los diferencien para poder armar algo entre sí
-- una versión del árbol para el pájaro y una versión del pájaro para el arbol, esto al posarse el pájaro sobre el árbol
-- objetos con cualidades extrañas, objetos que producen sentimientos específicos, emociones específicas no generales
-- "¿cómo se sentiría un gato navegando en la gravedad de la luna?"
-- cómo diferenciaría una mala metáfora de una buena? es como un chiste, no sabes qué tan bueno es hasta cuando lo dices- misa
-- a través de las herramientas que conozco, elaboro algo que reproduzca algo
-- primero encontrar la emoción, después definimos lo que haremos
-- un encargo es: 2 objetos, 15 cualidades cada uno
-- encargo 2: lluvia de ideas con grupo
+- "la metáfora es la interrelación entre las cualidades no esenciales de 2 objetos distintos"
+- "vivir del mundo de las metáforas, vida poco mainstream y poder defender el por qué"
+- máquinas sentimentales
+- todo es un objeto
+- pendiente rellenar apuntes salida a terreno y encargos
 
-### lluvia de ideas grupal, grupo 5: miguel vera, camila parada, félix rodríguez, braulio figueroa
+#### encargo 17, cada persona debe subir una investigación detallada de la obra artística de Claudia González Godoy, con énfasis en su investigación sobre ríos, incluyendo información sobre premios, exposiciones, colaboradores, estudios y referencias en su obra.
 
-- idea 1
-- luz? luces/movimiento
-- dar personalidad a un fenómeno lumínico?
-- lograr emociones específicas, algo puede ser, ¿la pérdida? que se apague una y las demás comiencen a moverse de otra forma en base a lo que les afecta?
-- color/intensidad/distancia/texturas
-- flujo emocional visto en los comportamientos de la luz para evocar ¿sentimientos? sonidos que se conecten a esto, fabricar sonidos , el uso de espejos
-- ¿cómo se conectaría esto con las emociones específicas? ¿ideas de máquinas sentimentales? ¿emociones transitorias?
-- ¿humanización de luces? ¿personificación de la máquina?
-- mapear las emociones a colores?
-
-- idea 2
-- "máquina imperfecta pero planificada" ¿máquina que decepcione?
-- ¿tipos de incomodidades?
-- ¿te incomoda decepcionarte en vivo?
-- expectativas de que va salir bien pero en realidad salió mal de forma planificada
-- cómo percibe un sujeto equis en base a otra
-- fenómeno que todos esperan que pase pero que en realidad no va a pasar, esto incomodaría o decepcionaría al público
-- todos esperan las cosas obvias pero ocurre lo no obvio
-
-- idea 3 
-- meter la perspectiva de un teléfono, muchos pedidos en una llamada telefónica, cada pedido acumule luces, te abrume/saturación, tú cuando llamas por teléfono es para desahogarte pero cuando te responden es algo que te angustia más
-- rompe si necesitas ayuda, pero que al romper esto sea la máquina la que te comienza a pedir ayuda a ti
-- como esa sensación de cuando hablas con alguien y le cuentas un problema pero la persona te responde: "a mi también me pasó eso, me pasó algo peor, eso no es nada, la minimización de las emociones"
-- una máquina SOS inversa
-
-- 
-- 
+#### encargo 18, cada persona debe subir taxonomía detallada de sensores, actuadores, software y hardware utilizado en 1 obra exhibida en la Bienal de Artes Mediales 2025, citando correctamente a las fuentes.
