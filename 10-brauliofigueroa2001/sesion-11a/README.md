@@ -1,6 +1,6 @@
 # sesion-11a
 
-## taller viernes 24 de octubre
+## taller martes 21 de octubre
 
 ### primera parte
 
