@@ -1,2 +1,2 @@
 # sesion-10b
-## pendiente llenar apuntes martes 21 de octubre
+## entrega de proyecto 2
