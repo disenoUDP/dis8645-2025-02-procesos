@@ -42,6 +42,11 @@ Claudia Gonzalez Godoy es una Artista Visual y profesora titulada de la Escuela 
 [ARCOPARLANTE](https://17.bienaldeartesmediales.cl/obra/arcoparlante/)
 
 
+#### ¿Por qué esta obra?
+
+Esta instalación se encuentra ubicada en el piso más inferior del centro cultural [CEINA](https://ceina.cl/) (Centro de Extención del Instituto Nacional), en una sala larga que comparte su espacio con más obras pertenecientes a la bienal. Al ser una estructura 
+
+
 
 
 ***
