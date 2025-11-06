@@ -1,6 +1,6 @@
 # sesion-11b
 
-## taller clase martes 28 de octubre
+## taller clase viernes 24 de octubre
 
 ### primera parte
 
