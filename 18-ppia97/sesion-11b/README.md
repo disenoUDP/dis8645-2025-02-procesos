@@ -86,7 +86,7 @@ Referencias dentro de su obra
 2. Tema central e interés por los ríos
 - Uno de los ejes fundamentales en su obra es el agua, los ríos y sus correlatos ecológicos y tecnológicos.
 Por ejemplo, la serie “Hidroscopias” aborda la transformación socio-ambiental de ríos chilenos como el Río Biobío.
-Su interés no es solo estético, sino activamente crítico: cuestiona el extractivismo hídrico, la infraestructura de embalses, la alteración del cauce, y cómo todo esto afecta la experiencia sensorial (sonido, memoria, territorio) del río.
+- Su interés no es solo estético, sino activamente crítico: cuestiona el extractivismo hídrico, la infraestructura de embalses, la alteración del cauce, y cómo todo esto afecta la experiencia sensorial (sonido, memoria, territorio) del río.
 (https://casa-hoffmann.com/portfolio/claudia-gonzalez-godoy/)
 (https://cchv.cl/charla-y-visionado-de-hidroscopia-biobio-arte-tecnologia-y-ecologia-critica-en-el-mssa/)
 (https://chaco.cl/galeria-gabriela-mistral-presenta-decantaciones-y-resonaciones-donde-nace-y-termina-el-rumor-del-rio/)
@@ -95,7 +95,7 @@ Su interés no es solo estético, sino activamente crítico: cuestiona el extrac
 - Obra incluida en colecciones nacionales e internacionales, como el ifa Gallery y el ZKM Karlsruhe (Alemania).
 Participación en la 15ª Bienal de Artes Mediales de Santiago con la obra “Hidroscopia / Loa”. 
 Exposición “Hidroscopia / Biobío” en 2025: proyecto interdisciplinario con equipo de colaboradoras/es, interviniendo el río Biobío.
-Colaboradores en este proyecto: Bárbara Molina Vega, Susana Chau Ahumada, Andrés Morales Durán, Arturo Barra Henríquez, curadora Carolina Castro Jorquera.
+- Colaboradores en este proyecto: Bárbara Molina Vega, Susana Chau Ahumada, Andrés Morales Durán, Arturo Barra Henríquez, curadora Carolina Castro Jorquera.
 (https://casa-hoffmann.com/portfolio/claudia-gonzalez-godoy/)
 (https://www.claudiagonzalez.cl/projects/hidrosciopia-loa-cu/)
 (https://cchv.cl/charla-y-visionado-de-hidroscopia-biobio-arte-tecnologia-y-ecologia-critica-en-el-mssa/)
@@ -105,6 +105,7 @@ Colaboradores en este proyecto: Bárbara Molina Vega, Susana Chau Ahumada, Andr�
 Usa tecnología, electrónica DIY y materiales orgánicos/minerales para construir instalaciones sonoras que reflejan el “estado” de los ríos intervenidos. 
 Su metodología articula arte, ecología, tecnología y comunidad: se involucra con territorios, colectivos y reconoce la memoria biocultural como componente clave.
 (https://arteymedios.org/claudia-gonzalez/)
+
 (http://revistas.uach.cl/index.php/retd/article/view/7774/8778)
 
 ![Visita](./imagenes/decantaciones.jpg)
@@ -125,7 +126,7 @@ El evento se presenta como un espacio de exhibición, investigación y creación
 
 2. Obra seleccionada para la taxonomía
 
-#### ~~~ desde la raíz ~~~ una aproximación al bosque esclerófilo ~ por Yto Aranda
+##### ~~~ desde la raíz ~~~ una aproximación al bosque esclerófilo ~ por Yto Aranda
 
 ♡︎ **Sensores**
 - Sensores Táctiles: Detectan el contacto físico del público con la estructura tejida, simulando la sensibilidad del sistema de raíces y permitiendo que el bosque reaccione y responda.
