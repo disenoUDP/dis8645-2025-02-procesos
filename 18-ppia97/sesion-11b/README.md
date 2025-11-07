@@ -103,10 +103,8 @@ Exposición “Hidroscopia / Biobío” en 2025: proyecto interdisciplinario con
 4. Estudios y referencias en su obra
 - Realiza trabajo de campo, recolecta muestras de agua, sedimentos, registros sonoros y audiovisuales.
 Usa tecnología, electrónica DIY y materiales orgánicos/minerales para construir instalaciones sonoras que reflejan el “estado” de los ríos intervenidos. 
-Su metodología articula arte, ecología, tecnología y comunidad: se involucra con territorios, colectivos y reconoce la memoria biocultural como componente clave.
-(https://arteymedios.org/claudia-gonzalez/)
+Su metodología articula arte, ecología, tecnología y comunidad: se involucra con territorios, colectivos y reconoce la memoria biocultural como componente clave.(https://arteymedios.org/claudia-gonzalez/) (http://revistas.uach.cl/index.php/retd/article/view/7774/8778)
 
-(http://revistas.uach.cl/index.php/retd/article/view/7774/8778)
 
 ![Visita](./imagenes/decantaciones.jpg)
 ![Visita](./imagenes/decantaciones1.jpg)
