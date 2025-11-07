@@ -94,7 +94,7 @@ Referencias dentro de su obra
 
 3. Premios, exposiciones y colaboraciones
 - Obra incluida en colecciones nacionales e internacionales, como el ifa Gallery y el ZKM Karlsruhe (Alemania).
-- Participación en la 15ª Bienal de Artes Mediales de Santiago con la obra “Hidroscopia / Loa”. 
+- Participación en la 15ª Bienal de Artes Mediales de Santiago con la obra “Hidroscopia / Loa”.
 - Exposición “Hidroscopia / Biobío” en 2025: proyecto interdisciplinario con equipo de colaboradoras/es, interviniendo el río Biobío.
 - Colaboradores en este proyecto: Bárbara Molina Vega, Susana Chau Ahumada, Andrés Morales Durán, Arturo Barra Henríquez, curadora Carolina Castro Jorquera.
 
@@ -103,8 +103,9 @@ Referencias dentro de su obra
 (https://cchv.cl/charla-y-visionado-de-hidroscopia-biobio-arte-tecnologia-y-ecologia-critica-en-el-mssa/)
 
 4. Estudios y referencias en su obra
+
 - Realiza trabajo de campo, recolecta muestras de agua, sedimentos, registros sonoros y audiovisuales.
-- Usa tecnología, electrónica DIY y materiales orgánicos/minerales para construir instalaciones sonoras que reflejan el “estado” de los ríos intervenidos. 
+- Usa tecnología, electrónica DIY y materiales orgánicos/minerales para construir instalaciones sonoras que reflejan el “estado” de los ríos intervenidos.
 - Su metodología articula arte, ecología, tecnología y comunidad: se involucra con territorios, colectivos y reconoce la memoria biocultural como componente clave.
 
 (https://arteymedios.org/claudia-gonzalez/) (http://revistas.uach.cl/index.php/retd/article/view/7774/8778)
@@ -128,7 +129,7 @@ El evento se presenta como un espacio de exhibición, investigación y creación
 
 2. Obra seleccionada para la taxonomía
 
-##### ~~~ desde la raíz ~~~ una aproximación al bosque esclerófilo ~ por Yto Aranda
+**~~~ desde la raíz ~~~ una aproximación al bosque esclerófilo ~** por Yto Aranda
 
 ♡︎ **Sensores**
 
