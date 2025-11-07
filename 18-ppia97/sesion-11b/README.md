@@ -107,6 +107,11 @@ Su metodología articula arte, ecología, tecnología y comunidad: se involucra 
 (https://arteymedios.org/claudia-gonzalez/)
 (http://revistas.uach.cl/index.php/retd/article/view/7774/8778)
 
+![Visita](./imagenes/decantaciones.jpg)
+![Visita](./imagenes/decantaciones1.jpg)
+![Visita](./imagenes/decantaciones2.jpg)
+> Fotos tomadas en la visita que hicimos
+
 ── .✦
 
 - Subir una taxonomía detallada de sensores, actuadores, software y hardware utilizados en una obra exhibida en la Bienal de Artes Mediales 2025, citando correctamente todas las fuentes.
@@ -141,4 +146,8 @@ El evento se presenta como un espacio de exhibición, investigación y creación
 - Lenguaje/Entorno de Programación (Inferencia): Código cargado en los microcontroladores (ej. C++ con Arduino IDE, Pure Data) que gestiona la lógica de la interacción.
 - Software de Edición de Video/Audio (Inferencia): Programas utilizados para crear el contenido del video y el diseño del sonido ambiental.
 
+![Visita](./imagenes/bienal.jpg)
+![Visita](./imagenes/bienal1.jpg)
+![Visita](./imagenes/bienal2.jpg)
+> Fotos tomadas en la visita que hicimos
 
