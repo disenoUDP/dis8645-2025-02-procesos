@@ -76,7 +76,7 @@ Una obra expuesta en el Museo de la Solidaridad Salvador Allende MSSA en Santiag
 
 ### Rumor del Agua
 
-“<<Rumor de Agua>> es un proyecto de investigación del territorio de la ciudad de Concepción en Chile, ciudad determinada geográficamente por el río Bío Bío, cuya traducción en Mapudungum significa “Rumor de Agua“. Este proyecto se plantea como un método de aproximación y de conocimiento al territorio delimitado por el Bío Bío.”
+“Rumor de Agua es un proyecto de investigación del territorio de la ciudad de Concepción en Chile, ciudad determinada geográficamente por el río Bío Bío, cuya traducción en Mapudungum significa “Rumor de Agua“. Este proyecto se plantea como un método de aproximación y de conocimiento al territorio delimitado por el Bío Bío.”
 
 
 Expuesta en la Pinacoteca Universidad de Concepción, Chile, durante el mes de enero de 2016.
