@@ -15,7 +15,7 @@ Movimiento filosofico que argumenta que todo lo existente son objetos, desde ele
 Es similar a la física cuántica, en que no se puede saber nada realmente mediante la observación.
 
 > #### [Graham Harman](https://es.wikipedia.org/wiki/Graham_Harman)
-> <img align="left" src="./imagenes/Graham.jpg" alt="txt" title="Fuente: " width=200>
+> <img align="left" src="./imagenes/Graham.jpg" alt="Graham Harman" title="Fuente: https://es.wikipedia.org/wiki/Graham_Harman" width=200>
 >
 > Filosofo Estadounidense cuyo trabajo origino la ontologia orientada a objetos.
 >
@@ -25,14 +25,26 @@ Es similar a la física cuántica, en que no se puede saber nada realmente media
 
 Son la conexión entre dos características no escenciales de un objeto
 
+    Ej: Handschuh == Zapato de mano (aleman)
+
+### Galería Gabriela Mistral
+
+Fuimos a ver y oir la obra "Decantaciones y Resonaciones ¿Dónde nace y termina el rumor del rio?", de la artista Claudia González Godoy.
+
+La instalacion nos pone en una habitación con harta tierra y un pequeño estanque con agua ubicado en el centro, nos hicieron quitarnos los zapatos para sentir mejor las vibraciones del suelo.
+
+La obra trata sobre las alteraciones que se le han hecho al rio Biobio y el efecto que han tenido, reteniendo el flujo de agua y eliminando el sonido del agua al correr. 
+
+Durante la experiencia a veces sentiamos el suelo vibrar y escuchabamos sonidos de agua corriendo, con espacios de silencio y quietud diseñados para contrastar el antes y después de la intervención humana.
+
 ### Other things: <!-- Things to organize + random stuff -->
 > ### SUB_SUBTITULO
 
 -----------------------------------------------------------------------------------------------------------
-## Encargo 17 <!-- cada persona debe subir una investigación detallada de la obra artística de Claudia González Godoy, con énfasis en su investigación sobre ríos, incluyendo información sobre premios, exposiciones, colaboradores, estudios y referencias en su obra. -->
+## Encargo 17 <!-- subir una investigación detallada de la obra artística de Claudia González Godoy, con énfasis en su investigación sobre ríos, incluyendo información sobre premios, exposiciones, colaboradores, estudios y referencias en su obra. -->
 ### TITULO
 
 
 -----------------------------------------------------------------------------------------------------------
-## Encargo 18 <!-- cada persona debe subir taxonomía detallada de sensores, actuadores, software y hardware utilizado en 1 obra exhibida en la Bienal de Artes Mediales 2025, citando correctamente a las fuentes. -->
+## Encargo 18 <!-- subir taxonomía detallada de sensores, actuadores, software y hardware utilizado en 1 obra exhibida en la Bienal de Artes Mediales 2025, citando correctamente a las fuentes. -->
 ### TITULO
