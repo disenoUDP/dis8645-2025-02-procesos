@@ -78,7 +78,7 @@ Yto Aranda dice: "del bit al barro, de la pantalla a la tierra húmeda, de la lu
 
 Timothy Morton
 
-Para la 17ª Bienal de Artes Mediales propone una instalación inmersiva que integra tejido, luz, sonido, video y sensores: una experiencia inmersiva y sensorial que denota un intercambio simbiótico que sostiene la vida.
+Para la 17ª Bienal de Artes Mediales propone una instalación inmersiva que integra tejido, luz, sonido, video y sensores, una experiencia inmersiva y sensorial que reacciona a la presencia del público con un Sensor de Presencia, que denota un intercambio simbiótico que sostiene la vida, además de tener destellos con sus luces LED entre sus tejidos o raíces, y luces en sus obras de acrílico.
 
 Habla del bosque esclerófilo, las raíces y las micorrizas, todo en base a investigaciones científicas sobre la sensibilidad vegetal y cómo se va entrelazando con arte, ciencia y tecnología desde las prácticas en artes mediales y ecología en América Latina.
 
