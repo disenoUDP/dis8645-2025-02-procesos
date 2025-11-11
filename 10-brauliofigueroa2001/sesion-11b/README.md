@@ -103,9 +103,13 @@ foto sacada de: [blog tongas pipiripao](https://tongaspipiripao.blogspot.com/p/t
 
 - también encontré otro blog en el cuál nos muestran la restauración de Tongas [restauracion tongas](https://robottongas.blogspot.com/p/6.html), dejo algunas fotos y texto del blog
 
+"El Robot Tongas estuvo casi 20 años guardado en el techo de un baño de un garage en Valparaíso, hasta que recibí un llamado de Jorge Ramíres Varas que me contó de la feria Hobbycon y me invita a participar con el robot. "
+
+" Entusiasmado por la idea le cuento que está en estado deplorable, pero me ofrece una solución inmediata, ellos lo reparan. Más tarde se comunica conmigo Andrés Carbone que viene en su auto junto a su señora Pamela Lange y se llevan desarmado al Tongas en la parte del maletero."
+
 " Después de casi un mes de trabajo de Andrés Carbone y Roberto Catalá logran dejarlo como nuevo pero conservando las características originales de Tongas. Andrés cuenta; “que cuando llegaba del trabajo en la tarde trabajaba hasta altas horas de la madrugada. Tongas tiene varios colores, buscamos los más representativos, el pecho blanco y líneas azules. Las líneas de la cabeza, que eran doradas y representaban a los circuitos eran difíciles de lograr, pero viendo materiales encontré lo más básico y simple, cinta de regalo dorada de doble contacto, las líneas quedaban perfectas. Las ampolletas agregadas son de refrigerador teñidas con tinta para impresora y tinta para lapicera, Un amigo, Leonel Rivas, que es ingeniero electrónico, cuando le conté me dijo: TONGAS TONGAS NOOOOOOOOOOOO, YO AYUDO, YO SE DE ROBÓTICA !!!!!!
 
-A lo que le respondí: Won, tiene un motor de tocadisco.  Mi amigo compró el Joystick de Atari que tiene en las piernas, que es el mismo que tenía en los años 80. Otro dato: el amperímetro..... uf un suplicio, hasta que lo fabriqué con una caja de VHS y tiene un texto en la parte inferior que "es descifrable" para que se entretengan”., extraído de [restauración tongas](https://robottongas.blogspot.com/p/6.html)
+"A lo que le respondí: Won, tiene un motor de tocadisco.  Mi amigo compró el Joystick de Atari que tiene en las piernas, que es el mismo que tenía en los años 80. Otro dato: el amperímetro..... uf un suplicio, hasta que lo fabriqué con una caja de VHS y tiene un texto en la parte inferior que "es descifrable" para que se entretengan”. Extraído de [restauración tongas](https://robottongas.blogspot.com/p/6.html)
 
 
 
