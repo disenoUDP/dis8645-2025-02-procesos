@@ -4,7 +4,7 @@
 
 ## Encargos
 
-Encargo: Investigar Claudia Gonzáles Godoy
+Encargo: Investigar Claudia González Godoy
 
 Encargo artes mediales: estudiar una obra e investigar los sensores y actuadores, como funciona, etc. (revisar lista de encargos)
 
@@ -64,5 +64,40 @@ Galería Gabriela Mistral / Galería GGM
 <https://www.claudiagonzalez.cl/projects/hidroscopia-loa/>
 <https://www.claudiagonzalez.cl/projects/hidroscopia-maule/>
 <https://artishockrevista.com/2025/09/14/claudia-gonzalez-godoy-hidroscopias/>
+
+## Encargo taxonomía obra
+
+“Punto de Fuga III: La singularidad o la densidad infinita de las imágenes”
+ Artista: Francisco Belarmino
+ Bienal de Artes Mediales de Santiago, 2025
+
+“En esta ocasión “Punto de Fuga III – La Singularidad o La densidad infinita de las imágenes”, despliega un video-ensayo de carácter volumétrico, escultórico y sonoro, con el que busca, a través de la selección y utilización de material de archivo fílmico, de video, televisión y producción propia, proponer una condición de singularidad en la manera en que percibimos la realidad y a nosotros mismos.
+
+Así mismo, con la utilización de una pantalla esférica, cuya materialidad y forma rompe el carácter unidireccional del cine, se busca fomentar la inquietud, el cuestionamiento, el recorrido, la observación activa.”
+
+Hardware:
+
+- Pantalla esférica LED
+- Sistema de suspensión para colgar la pantalla
+- Reproductor de video
+
+Software:
+
+- Programas de edición y animación para crear y montar los videos.
+- IA para generar las imágenes.
+- Software de sonido para mezclar el audio
+  
+Sensores:
+Posiblemente el movimiento de la esfera sea debido a un motor, y no por un sensor.
+
+
+Actuadores:
+Motor que mueve la pantalla esférica, o posiblemente un tecle eléctrico para que se mueva de forma pendular.
+
+
+Fuentes:
+- Bienal de Artes Mediales de Santiago (2025). Punto de Fuga III: La singularidad o la densidad infinita de las imágenes. <https://17.bienaldeartesmediales.cl/obra/punto-de-fuga-iii-la-singularidad-o-la-densidad-infinita-de-las-imagenes>
+- Apoyo de ChatGPT
+
 
 
