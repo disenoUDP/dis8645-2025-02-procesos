@@ -91,11 +91,15 @@ foto sacada del video [robotongas capítulo 01](https://www.youtube.com/watch?v=
 
 foto sacada de: [blog tongas pipiripao](https://tongaspipiripao.blogspot.com/p/tongas.html), robot "ucevito" creado en un Atari XL-800
 
-- un bonus que encontré mientras investigaba, es una página web del año 1995 sobre Tongas y otras cosas hechas por Gastón Centeno
+- un bonus que encontré mientras investigaba, es una página web del año 1995 sobre Tongas y otras cosas hechas por Gastón Centeno, llegué a ella por el siguiente link: [tongas.cl](https://tongas.cl/index.php)
 
 ![tongaspagina](./imagenes/tongaspaginaantigua.JPG)
 
 - dentro de esta página, hay un enlace secreto mediante una clave la cuál se encuentra en uno de los blog hechos por Gastón que estuve investigando
+
+![secreto](./imagenes/elsecretodetongas.JPG)
+
+- acá nos permitía o permite ser socios de Tongas, no sé si Gastón revise los correos que se le mandan a este mail aún pero lo intenté por si acaso, para poder ser socio de tongas y tener mi carnet jejejej
 
 
 
