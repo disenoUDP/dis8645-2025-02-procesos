@@ -51,4 +51,26 @@
 
 #### Robot Tongas
 
+![tongas](./imagenes/tongas.jpg)
+
+foto cortesía de: [sebastiansaez](https://github.com/brauliofigueroa2001/dis8645-2025-02-procesos/tree/main/27-SebastianSaez1003) en la 17 bienal de artes mediales
+
+![tongas2](./imagenes/tongaslado.jpg)
+
+foto cortesía de: [sebastiansaez](https://github.com/brauliofigueroa2001/dis8645-2025-02-procesos/tree/main/27-SebastianSaez1003)
+
+![tongas3](./imagenes/tongasinfo.jpg)
+
+foto cortesía de: [sebastiansaez](https://github.com/brauliofigueroa2001/dis8645-2025-02-procesos/tree/main/27-SebastianSaez1003)
+
+- Tongas fue el entrañable robot del programa infantil chileno “Pipiripao”, creado e interpretado por Gastón Centeno Pozo a fines de los años 80. Con su carisma y aspecto futurista, protagonizaba el segmento “La informática simpática”, donde junto a Roberto Nicolini acercaba a los niños al mundo de la computación de manera divertida usando computadores Atari. Con el tiempo se transformó en un ícono de la infancia ochentera y noventera, recordado con cariño por varias generaciones, y recientemente volvió a la televisión como conductor principal en el reestreno de Pipiripao, confirmando su lugar en la memoria colectiva. Texto extraído de: [Bienal de Artes Mediales](https://17.bienaldeartesmediales.cl/obra/tongas/)
+
+- elegí a Tongas porque me llamó muchísimo la atención desde el primer momento en que lo ví, nunca había visto un robot antiguo y tan grande, sentí un hormigueo por dentro y la sensación de "me gustaría alguna vez en mi vida ser capaz de hacer algo así".
+
+- encontré en el blog [tongas pipiripao](https://tongaspipiripao.blogspot.com/p/tongas.html) información sobre Tongas y su historia, además de palabras de Gastón Centeno, su creador
+
+- en el bloque en el cuál enseñaban computación con Tongas dentro del programa, utilizaban una "Atari XL-800" y un "Atari 1400 ST" para el sistema de imágenes de "ucevito"
+
+
+
 
