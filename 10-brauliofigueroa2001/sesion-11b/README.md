@@ -101,6 +101,12 @@ foto sacada de: [blog tongas pipiripao](https://tongaspipiripao.blogspot.com/p/t
 
 - acá nos permitía o permite ser socios de Tongas, no sé si Gastón revise los correos que se le mandan a este mail aún pero lo intenté por si acaso, para poder ser socio de tongas y tener mi carnet jejejej
 
+- también encontré otro blog en el cuál nos muestran la restauración de Tongas [restauracion tongas](https://robottongas.blogspot.com/p/6.html), dejo algunas fotos y texto del blog
+
+" Después de casi un mes de trabajo de Andrés Carbone y Roberto Catalá logran dejarlo como nuevo pero conservando las características originales de Tongas. Andrés cuenta; “que cuando llegaba del trabajo en la tarde trabajaba hasta altas horas de la madrugada. Tongas tiene varios colores, buscamos los más representativos, el pecho blanco y líneas azules. Las líneas de la cabeza, que eran doradas y representaban a los circuitos eran difíciles de lograr, pero viendo materiales encontré lo más básico y simple, cinta de regalo dorada de doble contacto, las líneas quedaban perfectas. Las ampolletas agregadas son de refrigerador teñidas con tinta para impresora y tinta para lapicera, Un amigo, Leonel Rivas, que es ingeniero electrónico, cuando le conté me dijo: TONGAS TONGAS NOOOOOOOOOOOO, YO AYUDO, YO SE DE ROBÓTICA !!!!!!
+
+A lo que le respondí: Won, tiene un motor de tocadisco.  Mi amigo compró el Joystick de Atari que tiene en las piernas, que es el mismo que tenía en los años 80. Otro dato: el amperímetro..... uf un suplicio, hasta que lo fabriqué con una caja de VHS y tiene un texto en la parte inferior que "es descifrable" para que se entretengan”., extraído de [restauración tongas](https://robottongas.blogspot.com/p/6.html)
+
 
 
 
