@@ -81,11 +81,21 @@ foto sacada del video [robotongas capítulo 01](https://www.youtube.com/watch?v=
 
 - en estos videos que son 6, nos enseñan sobre la historia de tongas y también sobre robótica y arduino, de la mano de Gastón Centeno
 
+![tallertongas](./imagenes/tallertongas.JPG)
+
+- aquí muestran parte del taller, algunos robots que se mueven con servos y otras cosas, lo encontré genial y tengo pendiente ver 5 videos que me quedan de la serie aún
+
 - en el bloque en el cuál enseñaban computación con Tongas dentro del programa, utilizaban una "Atari XL-800" y un "Atari 1400 ST" para el sistema de imágenes de "ucevito"
 
 ![ucevito](./imagenes/ucevito.jpg)
 
 foto sacada de: [blog tongas pipiripao](https://tongaspipiripao.blogspot.com/p/tongas.html), robot "ucevito" creado en un Atari XL-800
+
+- un bonus que encontré mientras investigaba, es una página web del año 1995 sobre Tongas y otras cosas hechas por Gastón Centeno
+
+![tongaspagina](./imagenes/tongaspaginaantigua.JPG)
+
+- dentro de esta página, hay un enlace secreto mediante una clave la cuál se encuentra en uno de los blog hechos por Gastón que estuve investigando
 
 
 
