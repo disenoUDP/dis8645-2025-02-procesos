@@ -69,7 +69,17 @@ foto cortesía de: [sebastiansaez](https://github.com/brauliofigueroa2001/dis864
 
 - encontré en el blog [tongas pipiripao](https://tongaspipiripao.blogspot.com/p/tongas.html) información sobre Tongas y su historia, además de palabras de Gastón Centeno, su creador
 
+- la cabeza de Tongas se mueve mediante la pulsación de una palanca, como se muestra en la siguiente foto:
+
+- 
+
 - en el bloque en el cuál enseñaban computación con Tongas dentro del programa, utilizaban una "Atari XL-800" y un "Atari 1400 ST" para el sistema de imágenes de "ucevito"
+
+![ucevito](./imagenes/ucevito.jpg)
+
+foto sacada de: [blog tongas pipiripao](https://tongaspipiripao.blogspot.com/p/tongas.html), robot "ucevito" creado en un Atari XL-800
+
+
 
 
 
