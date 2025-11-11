@@ -71,7 +71,15 @@ foto cortesía de: [sebastiansaez](https://github.com/brauliofigueroa2001/dis864
 
 - la cabeza de Tongas se mueve mediante la pulsación de una palanca, como se muestra en la siguiente foto:
 
-- 
+![tongas3](./imagenes/tongasucv.JPG)
+
+foto sacada del video [robotongas capítulo 01](https://www.youtube.com/watch?v=_Xr8meV2ICg&t=175s)
+
+- en esta parte del video, Gastón acciona una especie de interruptor el cuál permite girar la cabeza de Tongas, relata que "todos los niños querían apretar esto", no alcanzo a distinguir bien lo que dice, algo sobre un control "estroboscópico"
+
+- también muestra que tongas tiene integrado un joystick de Atari
+
+- en estos videos que son 6, nos enseñan sobre la historia de tongas y también sobre robótica y arduino, de la mano de Gastón Centeno
 
 - en el bloque en el cuál enseñaban computación con Tongas dentro del programa, utilizaban una "Atari XL-800" y un "Atari 1400 ST" para el sistema de imágenes de "ucevito"
 
