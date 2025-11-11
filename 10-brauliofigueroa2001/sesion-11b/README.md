@@ -79,6 +79,20 @@ foto sacada del video [robotongas capítulo 01](https://www.youtube.com/watch?v=
 
 - también muestra que tongas tiene integrado un joystick de Atari
 
+- de lo que entendí es que la voz la hacían ellos pero la pasaban por alguna especie de filtro, le pregunté a chatgpt sobre cómo podría estar hecha la voz y me dijo lo siguiente:
+
+ El actor o locutor (en este caso la voz era hecha por Roberto Nicolini mismo o un actor del equipo) grababa las líneas normales, hablando con tono robótico o entrecortado.
+
+Luego, en postproducción o en vivo:
+
+Se aplicaba un efecto de “ring modulator” (modulador de anillo), muy usado en la época para crear voces robóticas.
+
+También se combinaba con un pitch shifter o eco metálico para dar esa resonancia mecánica.
+
+En algunos casos usaban un vocoder analógico, que mezcla la voz con una señal de sintetizador, dándole ese timbre electrónico característico.
+
+Finalmente, el resultado se regrababa o se emitía directo en el programa con una leve compresión y filtrado para sonar como un “robot simpático” más que uno intimidante.
+
 - en estos videos que son 6, nos enseñan sobre la historia de tongas y también sobre robótica y arduino, de la mano de Gastón Centeno
 
 ![tallertongas](./imagenes/tallertongas.JPG)
@@ -110,6 +124,27 @@ foto sacada de: [blog tongas pipiripao](https://tongaspipiripao.blogspot.com/p/t
 " Después de casi un mes de trabajo de Andrés Carbone y Roberto Catalá logran dejarlo como nuevo pero conservando las características originales de Tongas. Andrés cuenta; “que cuando llegaba del trabajo en la tarde trabajaba hasta altas horas de la madrugada. Tongas tiene varios colores, buscamos los más representativos, el pecho blanco y líneas azules. Las líneas de la cabeza, que eran doradas y representaban a los circuitos eran difíciles de lograr, pero viendo materiales encontré lo más básico y simple, cinta de regalo dorada de doble contacto, las líneas quedaban perfectas. Las ampolletas agregadas son de refrigerador teñidas con tinta para impresora y tinta para lapicera, Un amigo, Leonel Rivas, que es ingeniero electrónico, cuando le conté me dijo: TONGAS TONGAS NOOOOOOOOOOOO, YO AYUDO, YO SE DE ROBÓTICA !!!!!!
 
 "A lo que le respondí: Won, tiene un motor de tocadisco.  Mi amigo compró el Joystick de Atari que tiene en las piernas, que es el mismo que tenía en los años 80. Otro dato: el amperímetro..... uf un suplicio, hasta que lo fabriqué con una caja de VHS y tiene un texto en la parte inferior que "es descifrable" para que se entretengan”. Extraído de [restauración tongas](https://robottongas.blogspot.com/p/6.html)
+
+- todas las fotos a continuación son de [restauración tongas](https://robottongas.blogspot.com/p/6.html)
+
+![restauracion0](./imagenes/restauraciontongas0.JPG)
+
+![restauracion1](./imagenes/restauraciontongas1.JPG)
+
+![restauracion2](./imagenes/restauraciontongas2.JPG)
+
+![restauracion3](./imagenes/restauraciontongas3.JPG)
+
+![restauracion4](./imagenes/restauraciontongas4.JPG)
+
+![restauracion5](./imagenes/restauraciontongas5.JPG)
+
+![restauracion6](./imagenes/restauraciontongas6.JPG)
+
+![restauracion7](./imagenes/restauraciontongas7.JPG)
+
+- siento que me desvié un poco harto en este encargo pero quería documentar lo que encontré
+
 
 
 
