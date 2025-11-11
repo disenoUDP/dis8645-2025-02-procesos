@@ -104,4 +104,27 @@ Referencias:
 
 ## Encargo 18 "cada persona debe subir taxonomía detallada de sensores, actuadores, software y hardware utilizado en 1 obra exhibida en la Bienal de Artes Mediales 2025, citando correctamente a las fuentes."
 
-bleh
+Una de las obras que más me gusto personalmente fue “~~~ desde la raíz ~~~” de Yto Aranda, la cual estaba ubicada a la entrada de la exposición que fuimos a ver como curso, que desde mi perspectiva, más lo que recuerdo de la visita guiada, era una representación de la coneccion de el mundo fungi.
+
+Pero al investigar con mayor profundidad pude comprender de mejor manera la intención y significado que tenía esta obra para el autor.
+
+En su bitácora explica que su intención era crear conciencia de la importancia de los bosques esclerófilos, la conceptualización de la obra nació desde una documentación del bosque de su lugar de residencia a lo largo de 9 años, los cambios en el ecosistema y sus ciclos naturales.
+
+La documentación fue principalmente realizada con una cámara para tomar fotografías y videos donde dividiría todo este material según la estación del año en la que se encontraba.
+
+Un bosque esclerófilo tiene las características de poder resistir en condiciones áridas como las sequías.
+
+La parte la cual estaba tejida simula las raíces para presentar un paisaje subterráneo, que reacciona a la presencia del público (Sensor de Presencia) para generar sonido dependiendo de la posición de donde se encuentra la persona.
+
+También presentaba iluminación de LEDs programables dentro de los tejidos donde su patrón de iluminación asimila el intercambio de información y nutrientes entre las raíces, siendo una mezcla entre lo tecnológico y lo orgánico.
+
+La otra parte de la exposición serán las 24 pinturas hexagonales, donde se pintaría cada una con esmalte de agua, acrílico y policarbonato, donde contendrán cintas led para aportar profundidad, arduinos que contienen la programación para sus patrones de iluminación.
+
+Referencias:  
+- https://yto.cl/desdelaraiz/#vm   
+
+- https://yto.cl/raiz/  
+
+- https://yto.cl/explora/
+
+- https://es.wikipedia.org/wiki/Bosque_escler%C3%B3filo
