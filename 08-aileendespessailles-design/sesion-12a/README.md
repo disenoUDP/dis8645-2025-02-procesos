@@ -15,13 +15,16 @@ objeto 1, yo
 
 objeto 2, máquina 
 
+metáfora, como se intersecctan 2 cualidades esenciales de 2 objetos, objeto 1 = cualidades y objeto 2 = materialidades.
+
+
 se busca la metáfora entre estos dos objetos, dando el diseño de interfaz.
 
 ## ideas para es examen grupo-03
 
 ### idea din0, apego ansioso
 
-máquina de abrazos, se muestra amable al inciio, una vez te abraza, se niega a soltarte y se aferra a ti
+máquina de abrazos, se muestra amable al inicio, una vez te abraza, se niega a soltarte y se aferra a ti
 
 ### idea clifford1one, austeridad(?)
 
@@ -40,8 +43,6 @@ casco que detecta al tono de la voz(tranquilo, agresivo, compasivo, etc.). Muest
 máquina que a partir de una acción exponga un problema social y genere un sentimiento de pena o angustia. ejemplo: 
 
 - explotación laboral o consumismo, la máquina repite algo para siempre sin descanso 
-- crisis climática, la máquina tiene miedo a quedar sola ya debido a la extinción de especies o emite sonidos, como es pajarito que canta buscando una pareja, pero es el único que queda. 
+-crisis climática provoca que la máquina sienta miedo a la soledad debido a la extinción de especies. Como metáfora de esta situación, emite un canto de pájaro que busca pareja, aunque sabe que es el único sobreviviente. 
 -contaminación, a medida que el aire se vuelve “más sucio” (simulado), el ventilador respira más rápido y con ruido de asfixia.
 - Desbalance social, dos mecanismos conectados: uno siempre recibe más energía o recursos (agua, luz, movimiento) que el otro.
-
- 
