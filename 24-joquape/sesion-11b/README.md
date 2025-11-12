@@ -1,4 +1,5 @@
 # sesion-11b
+
 ## clase 
 
 ### máquinas de lenguaje / de felicidad / transductoras
@@ -36,6 +37,7 @@ en este contexto, la mesa o la máquina serían formas de conectar lo técnico c
 ## Encargos 
 
 ### Cada persona debe subir una investigación detallada de la obra artística de Claudia González Godoy, incluyendo información sobre premios, exposiciones, colaboradores, estudios y referencias en su obra.
+
 1. Quién es Claudia González Godoy
 
 Claudia González Godoy es una artista medial chilena nacida en Santiago en 1983. Estudió Arte en la Universidad Arcis, donde se tituló como Profesora de Arte y Licenciada en Bellas Artes con mención en Gráfica. Después hizo un Magíster en Artes Mediales en la Universidad de Chile y un Diplomado en Lutería Electrónica en la Católica.
@@ -73,13 +75,13 @@ Más que representar el territorio, Claudia lo escucha: convierte sus procesos, 
 
 ### Cada persona debe subir taxonomía detallada de sensores, actuadores, software y hardware utilizado en 1 obra exhibida en la Bienal de Artes Mediales 2025, citando correctamente a las fuentes.
 
-# Taxonomía técnica de la obra “Kokkino” (2023)
+"Taxonomía técnica de la obra Kokkino (2023)" 
 
 Artistas: Leticia Almeida (Tanky) y Mathías Chumino (C03RA)
 País: Uruguay
 Exhibida en: 17ª Bienal de Artes Mediales de Santiago, Centro Cultural CEINA (2025)
 
-*Descripción general*
+**Descripción general** 
 
 Kokkino es una instalación de video generativo que transforma datos climáticos en imágenes en movimiento. Los artistas utilizan información real proveniente de bases de datos abiertas —como registros de temperatura, humedad y gases— para crear una proyección visual en constante cambio.
 El resultado es un paisaje digital que se comporta como un organismo vivo: los tonos fríos aparecen en los períodos de menor temperatura, mientras que los rojos intensos marcan los picos de calor, funcionando como una señal de alarma frente a la crisis climática.
