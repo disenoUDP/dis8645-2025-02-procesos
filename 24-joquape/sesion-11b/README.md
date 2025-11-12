@@ -38,19 +38,19 @@ en este contexto, la mesa o la máquina serían formas de conectar lo técnico c
 
 ### Cada persona debe subir una investigación detallada de la obra artística de Claudia González Godoy, incluyendo información sobre premios, exposiciones, colaboradores, estudios y referencias en su obra.
 
-1. Quién es Claudia González Godoy
+* Quién es Claudia González Godoy
 
 Claudia González Godoy es una artista medial chilena nacida en Santiago en 1983. Estudió Arte en la Universidad Arcis, donde se tituló como Profesora de Arte y Licenciada en Bellas Artes con mención en Gráfica. Después hizo un Magíster en Artes Mediales en la Universidad de Chile y un Diplomado en Lutería Electrónica en la Católica.
 Desde hace varios años trabaja de forma independiente, combinando arte, tecnología, naturaleza y sonido. También ha sido parte de varios espacios educativos, como docente en el Magíster de Artes Mediales de la Universidad de Chile y ahora como coordinadora del área de oficios gráficos en el Museo Taller.
 
-2. Su línea de trabajo
+* Su línea de trabajo
 
 Su obra se mueve en la frontera entre lo tecnológico y lo natural. Le interesa mucho cómo los materiales se comportan en el tiempo —por ejemplo, cómo se oxida el cobre o cómo el agua genera sonido— y cómo esos procesos físicos pueden transformarse en experiencias artísticas.
 Claudia trabaja con materiales como agua, madera, cobre, hilos, pigmentos minerales y circuitos electrónicos, buscando conectar la ciencia con lo poético. También tiene una forma de trabajar muy de terreno: va a los lugares, graba sonidos, conversa con comunidades, y desde ahí empieza a construir sus obras.
 
 En palabras simples, lo que hace es escuchar los materiales y los paisajes, y traducir esa información en instalaciones que combinan arte, sonido y tecnología.
 
-3. Algunos de sus proyectos
+* Algunos de sus proyectos
 
 Entre sus obras más importantes están:
 
@@ -63,7 +63,9 @@ Arreglos de campo. Del cielo al agua y lo que está en el centro (2022–2023): 
 Decantaciones y Resonaciones. ¿Dónde nace y termina el rumor del río? (2025): un trabajo sobre el río Biobío y su embalse, con una topografía construida y sonidos grabados en terreno.
 
 The Water Resistance’s Laboratory Toboggans (2013–2016): una instalación sonora sobre el agua, el cobre y el tiempo, que te cuento más abajo con detalle.
-4. Colaboraciones, exposiciones y reconocimientos
+
+
+* Colaboraciones, exposiciones y reconocimientos
 
 A lo largo de su carrera, Claudia ha desarrollado muchos proyectos en colaboración con otros artistas, instituciones y comunidades. Entre 2008 y 2012 fue directora de Chimbalab, un laboratorio de arte y tecnología donde se experimentaba con electrónica, sonido y cultura DIY. También ha participado en distintas residencias artísticas como Un riel por el río, Las aguas son libres, Agua y Territorio/Spree y la ya mencionada Laboratorio Agua. En todas estas experiencias, su foco ha sido combinar arte, ecología y participación colectiva.
 
@@ -75,13 +77,13 @@ Más que representar el territorio, Claudia lo escucha: convierte sus procesos, 
 
 ### Cada persona debe subir taxonomía detallada de sensores, actuadores, software y hardware utilizado en 1 obra exhibida en la Bienal de Artes Mediales 2025, citando correctamente a las fuentes.
 
-"Taxonomía técnica de la obra Kokkino (2023)" 
+Taxonomía técnica de la obra Kokkino (2023)
 
 Artistas: Leticia Almeida (Tanky) y Mathías Chumino (C03RA)
 País: Uruguay
 Exhibida en: 17ª Bienal de Artes Mediales de Santiago, Centro Cultural CEINA (2025)
 
-**Descripción general** 
+Descripción general
 
 Kokkino es una instalación de video generativo que transforma datos climáticos en imágenes en movimiento. Los artistas utilizan información real proveniente de bases de datos abiertas —como registros de temperatura, humedad y gases— para crear una proyección visual en constante cambio.
 El resultado es un paisaje digital que se comporta como un organismo vivo: los tonos fríos aparecen en los períodos de menor temperatura, mientras que los rojos intensos marcan los picos de calor, funcionando como una señal de alarma frente a la crisis climática.
