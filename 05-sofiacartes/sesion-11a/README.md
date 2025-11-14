@@ -2,7 +2,7 @@
 
 ## Apuntes 
 
-- Diseño abirto será mas pequeño, ya que  por el aniversario de la u se harán distintas actividades den en Centro Cultural MonteCarmelo.
+- Diseño abierto será más pequeño, ya que  por el aniversario de la u se harán distintas actividades den en Centro Cultural MonteCarmelo.
 - En la segunda semana de diciembre será diseño abierto 8 al 12 apróx.
 - Semana taller 1 dic al 5.
 - Idea de Mateo, hacer tres grupos grandes y hacer un mega proyecto
@@ -50,3 +50,7 @@ F.A.T Lab <https://www.media.mit.edu/groups/future-sketches/projects/>
 - Herencia: Permite que una nueva clase herede propiedades y comportamientos de una clase existente. Esto promueve la reutilización de código, ya que no es necesario escribir el mismo código desde cero.
 - Polimorfismo: Permite que objetos de diferentes clases respondan al mismo mensaje de manera diferente. Por ejemplo, un método "moverse" podría tener diferentes implementaciones para una clase "coche" y una clase "bicicleta".
 - Abstracción: Permite representar conceptos complejos del mundo real de forma simplificada en el mundo lógico, enfocándose en las características esenciales y ocultando los detalles irrelevantes.
+
+### Manifiesto
+
+es la declaración escrita que da a mostrar las creencias/principios de alguien o algún grupo de gente.
