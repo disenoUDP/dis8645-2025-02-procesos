@@ -96,7 +96,7 @@ Referencias dentro de su obra
 (<https://cchv.cl/charla-y-visionado-de-hidroscopia-biobio-arte-tecnologia-y-ecologia-critica-en-el-mssa/>)
 (<https://chaco.cl/galeria-gabriela-mistral-presenta-decantaciones-y-resonaciones-donde-nace-y-termina-el-rumor-del-rio/>)
 
-3. Premios, exposiciones y colaboraciones
+3: Premios, exposiciones y colaboraciones
 
 - Obra incluida en colecciones nacionales e internacionales, como el ifa Gallery y el ZKM Karlsruhe (Alemania).
 - Participación en la 15ª Bienal de Artes Mediales de Santiago con la obra “Hidroscopia / Loa”.
@@ -107,7 +107,7 @@ Referencias dentro de su obra
 (<https://www.claudiagonzalez.cl/projects/hidrosciopia-loa-cu/>)
 (<https://cchv.cl/charla-y-visionado-de-hidroscopia-biobio-arte-tecnologia-y-ecologia-critica-en-el-mssa/>)
 
-4. Estudios y referencias en su obra
+4: Estudios y referencias en su obra
 
 - Realiza trabajo de campo, recolecta muestras de agua, sedimentos, registros sonoros y audiovisuales.
 - Usa tecnología, electrónica DIY y materiales orgánicos/minerales para construir instalaciones sonoras que reflejan el “estado” de los ríos intervenidos.
@@ -132,7 +132,7 @@ El evento se presenta como un espacio de exhibición, investigación y creación
 
 (<https://17.bienaldeartesmediales.cl/>)
 
-2. Obra seleccionada para la taxonomía
+2: Obra seleccionada para la taxonomía
 
 **~~~ desde la raíz ~~~ una aproximación al bosque esclerófilo ~** por Yto Aranda
 

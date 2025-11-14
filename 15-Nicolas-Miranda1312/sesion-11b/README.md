@@ -2,11 +2,11 @@
 
 -24-10-2025
 
-## Salida a terreno 
+## Salida a terreno
 
 ### Encargo 17
 
-**Investigación sobre la obra artística de Claudia González Godoy**
+Investigación sobre la obra artística de Claudia González Godoy
 
 Cada estudiante debe realizar una **investigación detallada** sobre la obra de la artista chilena **Claudia González Godoy**, con especial énfasis en su línea de investigación sobre **los ríos**.  
 El trabajo debe incluir antecedentes sobre su trayectoria, premios, exposiciones, colaboradores, estudios y referencias en su práctica artística.
