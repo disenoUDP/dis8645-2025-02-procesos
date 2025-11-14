@@ -18,13 +18,13 @@ Habla un poco de sus motivaciones, que vienen desde la nostalgia, desde su aprec
 
 ![imagen](imagenes/sesion04b-01.jpeg)
 
-> Fuente https://portfolio.decontextualize.com/
+> Fuente <https://portfolio.decontextualize.com/>
 >
-> Fuente https://en.wikipedia.org/wiki/Allison_Parrish
+> Fuente <https://en.wikipedia.org/wiki/Allison_Parrish>
 
 ### Nick Montfort
 
-Nick Montfort es profesor de medios digitales en el MIT e investigador principal del Centro de Narrativa Digital de la Universidad de Bergen, Noruega. Se dedica al desarrollo de poesía y arte computacionales. trabaja en diversos contextos, incluyendo la web, la publicación de libros y lecturas literarias, así como exposiciones en galerías, la escena de demostración y la programación en vivo. 
+Nick Montfort es profesor de medios digitales en el MIT e investigador principal del Centro de Narrativa Digital de la Universidad de Bergen, Noruega. Se dedica al desarrollo de poesía y arte computacionales. trabaja en diversos contextos, incluyendo la web, la publicación de libros y lecturas literarias, así como exposiciones en galerías, la escena de demostración y la programación en vivo.
 
 Tiene un doctorado en informática y ciencias de la información de la Universidad de Pensilvania, una maestría en escritura creativa (poesía) de la Universidad de Boston, una maestría en artes y ciencias de los medios del MIT y títulos universitarios en artes liberales y ciencias de la computación de la Universidad de Texas en Austin.
 
@@ -36,9 +36,9 @@ Su libro académico más reciente es "output: An Anthology of Computer-Generated
 
 ![imagen](imagenes/sesion04b-05.png)
 
-> Fuente https://nickm.com/me.html
-> 
-> Fuente https://cmsw.mit.edu/profile/nick-montfort/
+> Fuente <https://nickm.com/me.html>
+>
+> Fuente <https://cmsw.mit.edu/profile/nick-montfort/>
 
 ### Martín Gubbins
 
@@ -52,4 +52,4 @@ Martín Gubbins dice “Me gusta la imagen del poeta en acción, inmerso en una 
 
 ![imagen](imagenes/sesion04b-03.jpeg)
 
-> Fuente https://martingubbins.cl/
+> Fuente <https://martingubbins.cl/>

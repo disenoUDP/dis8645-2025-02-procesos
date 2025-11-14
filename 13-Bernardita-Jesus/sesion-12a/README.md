@@ -4,11 +4,11 @@
 
 ### Cosas que hablamos en la mañana
 
-- a misa lo aceptaron en su doctorado, que es el mismo que esta estudiando Aarón, https://www.idea.usach.cl/
+- a misa lo aceptaron en su doctorado, que es el mismo que esta estudiando Aarón, <https://www.idea.usach.cl/>
 
 - que le paso a arduino, lo compro pyton, ras berry high
 
-- hablamos de que a algunos ya no les cargaban las fotos en github, NOS DIJIERON QUE PODIA SER POR EL 
+- hablamos de que a algunos ya no les cargaban las fotos en github, NOS DIJIERON QUE PODIA SER POR EL
 
 ### Revisando la encuenta
 
@@ -52,7 +52,7 @@ Noviembre 03 lunes: Esdlcp - historial de caídas
 
 - Se hacer diagramas de flujo y utilizar bien mermaind
 
-### Proyecto-03
+### GRUPOS Proyecto-03
 
 hicimos los grupos de trabajo tomando en cuenta nuestras habilidades, para complementarnos
 
