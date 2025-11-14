@@ -1,5 +1,7 @@
 # Sesión-11b
 
+Viernes 24 de octubre, 2025
+
 ## Trabajo en clase
 
 ### Cosas que hablamos en la mañana
@@ -8,18 +10,33 @@
 
 - 
 
-
-nunca habia pensado de donde venia lo de buscarle un significado al arte, aunque ya conocia la crisis de la mimesis, y desde donde parten las vanguardias, y es sierto que parten desde la representacion y es posible que por eso busquemos darle significados y metaforas que muvhas veces no estan y no tienen ni sentido ni queda espacio para la interpretacion, muy interezate todo ese tema de lo que son y no son objetos, trabaajar en el lenguaje que explica las cosas
-
-
+Nunca había pensado de dónde venía lo de buscarle un significado al arte, aunque ya conocía la crisis de la mímesis y desde dónde parten las vanguardias artísticas. Y es cierto que parten desde la representación, y es posible que por eso busquemos darle significados y metáforas que muchas veces no están, no tienen sentido o no dejan espacio para la interpretación. Muy interesante todo ese tema de lo que son y no son objetos, y trabajar en el lenguaje que explica las cosas.
 
 ### Referentes
 
--
+- [Claudia González Godoy](https://www.claudiagonzalez.cl/)
 
--
+- [Yto Aranda](https://yto.cl/)
 
-### Palabras impoertantes
+- [Timothy Morton](https://en.wikipedia.org/wiki/Timothy_Morton)
+
+- [Elvira Espejo](https://museomoderno.org/elvira-espejo/)
+
+- [Elisa Balmaceda](https://elisabalmaceda.xyz/)
+
+- [Nicole L’Huillier](https://nicolelhuillier.com/)
+
+- [Gabriela Munguía](https://museomoderno.org/mapadelarte/artistas/gabriela-munguia/)
+
+- [Constanza Piña](https://es.wikipedia.org/wiki/Constanza_Pi%C3%B1a)
+
+- [Laura Nieves](https://www.launieves.com/)
+
+### Palabras importantes
+
+[Mímesis:](https://es.wikipedia.org/wiki/M%C3%ADmesis) es un concepto estético, utilizado en la crítica literaria y la filosofía. Tiene una amplia gama de significados, incluyendo imitatio, imitación, similitud no sensible,  receptividad, representación, mimetismo, acto de expresión, acto de semejanza y presentación de sí.
+
+[Vanguardias artísticas:](https://es.wikipedia.org/wiki/Vanguardismo) Alude también al conjunto de movimientos artísticos y literarios que se formaron a comienzos del siglo XX en Occidente que rompieron con la tradición académica y buscaron la innovación.
 
 ## Encargo-17: Claudia González Godoy
 
@@ -52,6 +69,33 @@ Está la intención de reparar una desconexión vital entre el agua del río y s
 > Fuente https://artishockrevista.com/2025/09/14/claudia-gonzalez-godoy-hidroscopias/
 
 ## Encargo-18: Obra exhibida en la Bienal de Artes Mediales 2025
- 
-Cada persona debe subir taxonomía detallada de sensores, actuadores, software y hardware utilizado en 1 obra exhibida en la Bienal de Artes Mediales 2025, citando correctamente a las fuentes.
 
+### Desde la raíz: Aproximación al bosque esclerófilo
+
+[Yto Aranda](https://yto.cl/) licenciada en Artes, mención Pintura en la Universidad de Chile. Fue una de las primeras artistas que se atrevió a experimentar con los lenguajes electrónicos. Desarrolla pintura electrónica interactiva y utiliza Internet como plataforma de acción.
+
+Yto Aranda dice: "del bit al barro, de la pantalla a la tierra húmeda, de la luz fría de los monitores al calor persistente del sol sobre las hojas duras del bosque esclerófilo."
+
+Timothy Morton
+
+Para la 17ª Bienal de Artes Mediales propone una instalación inmersiva que integra tejido, luz, sonido, video y sensores, una experiencia inmersiva y sensorial que reacciona a la presencia del público con un Sensor de Presencia, que denota un intercambio simbiótico que sostiene la vida, además de tener destellos con sus luces LED entre sus tejidos o raíces, y luces en sus obras de acrílico.
+
+Habla del bosque esclerófilo, las raíces y las micorrizas, todo en base a investigaciones científicas sobre la sensibilidad vegetal y cómo se va entrelazando con arte, ciencia y tecnología desde las prácticas en artes mediales y ecología en América Latina.
+
+Yto problematiza la visión antropocénica de la naturaleza y el conflicto medioambiental global de los bosques esclerófilos. Estos son únicos en el mundo y están brutalmente amenazados por la minería, la expansión inmobiliaria y el cambio climático. Además, yo creo que esto es una problemática socioambiental, una problemática que trasciende y se refleja en nuestra manera de relacionarnos y comunicarnos con los espacios y las personas.
+
+Elvira Espejo
+
+Claudia González Godoy
+
+Elisa Balmaceda
+
+Nicole L’Huillier
+
+Gabriela Munguía
+
+Constanza Piña
+
+Laura Nieves
+
+> Fuente https://yto.cl/desdelaraiz/
