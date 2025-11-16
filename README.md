@@ -70,20 +70,8 @@ Este curso tiene 3 unidades, cada una con una entrega grupal y una individual. L
 | [09b](./00-docentes/sesion-09b/) | 10-10 vier  | trabajo en proyecto-02                               |
 | [10a](./00-docentes/sesion-10a/) | 10-14 mar   | trabajo en proyecto-02                               |
 | [10b](./00-docentes/sesion-10b/) | 10-17 vier  | entrega de proyecto-02                               |
-| [11a](./00-docentes/sesion-11a/) | 10-21 mar   | / solemnes 2, no hay ev. taller                      |
-| [11b](./00-docentes/sesion-11b/) | 10-24 vier  | / solemnes 2, no hay ev. taller                      |
-| [12a](./00-docentes/sesion-12a/) | 10-28 mar   |                                                      |
-| [12b](./00-docentes/sesion-12b/) | 10-31 vier  | no hay sesión, feriado en chile                      |
-| [13a](./00-docentes/sesion-13a/) | 11-04 mar   |                                                      |
-| [13b](./00-docentes/sesion-13b/) | 11-07 vier  |                                                      |
-| [14a](./00-docentes/sesion-14a/) | 11-11 mar   |                                                      |
-| [14b](./00-docentes/sesion-14b/) | 11-14 vier  |                                                      |
-| [15a](./00-docentes/sesion-15a/) | 11-18 mar   | trabajo en proyecto-03                               |
-| [15b](./00-docentes/sesion-15b/) | 11-21 vier  | entrega de proyecto-03                               |
-| [16a](./00-docentes/sesion-16a/) | 11-25 mar   | / exámenes, no hay ev. taller                        |
-| [16b](./00-docentes/sesion-16b/) | 11-28 vier  | / exámenes, no hay ev. taller                        |
-| [17a](./00-docentes/sesion-17a/) | 12-02 mar   | / semana talleres                                    |
-| [17b](./00-docentes/sesion-17b/) | 12-05 vier  | / semana talleres                                    |
+
+este es el fin de este repositorio, continúa en <https://github.com/disenoUDP/dis8645-2025-2-proyectos>.
 
 ## Calendario de evaluaciones
 
